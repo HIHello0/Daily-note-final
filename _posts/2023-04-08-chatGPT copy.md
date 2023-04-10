@@ -14,7 +14,7 @@ author: Raj Rathod
 
 {:toc}
 
-
+sf
 
 If you're creating a blog post in Google Docs and want to include images, you can add the images to the document just like you normally would. Once you're done with the post, you can download the document as a Word file or a PDF file, depending on your preference.
 
