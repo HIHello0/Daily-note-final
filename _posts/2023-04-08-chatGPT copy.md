@@ -28,45 +28,12 @@ author: HyG
 
 hello
 
-<img src="{{ site.baseurl }}/HIHello0/gaohaoyang/_assets/_image/IMG_20230408_154059_1.jpg" alt="Image description">
-
-Hello 2 
-
-![Image description](https://gaohaoyang.netlify.app/HIHello0/gaohaoyang/_assets/_image/IMG_20230408_154059_1.jpg)
 
 
 
-科学上网不仅是可以用来使用chatGPT，也可以看ins、油管、face、电报、推特等，所以常备一个科学上网的账号是非常必要的。这里推荐 shadowsocks 服务，我个人已经使用了4年了，比较稳定，价格合理，包年仅一百元左右，续费更便宜。注册链接 [https://portal.shadowsocks.au/aff.php?aff=22354](https://portal.shadowsocks.au/aff.php?aff=22354)
 
-![](https://cdn.jsdelivr.net/gh/Gaohaoyang/pics/pics/1.png)
-![Alt textdsadasd](https://i.imgur.com/U0dpHHu.jpeg)
-![Alt textdsadasd](https://photos.app.goo.gl/LnjCrC7N8dGzgRtw6)
-
-https://photos.app.goo.gl/LnjCrC7N8dGzgRtw6
-
-![Alt textdsadasd](<blockquote class="imgur-embed-pub" lang="en" data-id="a/zaORmpu"  ><a href="//imgur.com/a/zaORmpu">dasa</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
-
-# 注册ChatGPT
-
-首先打开科学上网，访问 chatGPT 官网注册 [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)
-填写邮箱，验证邮箱，到手机号输入界面，这里需要一个海外手机号，如果没有请看第3步
-
-![](https://cdn.jsdelivr.net/gh/Gaohaoyang/pics/pics/2.png)
-
-# 手机号接收验证码
-
-[https://sms-activate.org/](https://sms-activate.org/)
-
-1. 给接码平台充值，在右上角，可以使用支付宝或银联卡充值
-2. 在左边选择 openai 再选择一个国家，建议选择印度尼西亚，比较便宜，不过印度更稳定
-3. 回到首页获取号码，回到ChatGPT里填写，等待接收验证码，然后填写到 ChatGPT 注册界面，完成注册
-
-![](https://cdn.jsdelivr.net/gh/Gaohaoyang/pics/pics/3.png)
-
-# 使用ChatGPT
-
-注册完成后，重新登录，可以使用 ChatGPT 了
-
-![](https://cdn.jsdelivr.net/gh/Gaohaoyang/pics/pics/4.png)
+![](https://i.imgur.com/y0cdxkh.jpg)
+![](https://i.imgur.com/h8wjd1E.jpg)
+![](https://i.imgur.com/aaY0Mwt.jpg)
 
 
