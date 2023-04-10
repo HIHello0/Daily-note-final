@@ -25,6 +25,12 @@ author: HyG
 
 如果您已经可以科学上网了，则可以跳过这1步。
 
+
+hello
+
+<img src="{{ site.baseurl }}/_assets/_image/IMG_20230408_154059_1.jpg" alt="Image description">
+
+
 科学上网不仅是可以用来使用chatGPT，也可以看ins、油管、face、电报、推特等，所以常备一个科学上网的账号是非常必要的。这里推荐 shadowsocks 服务，我个人已经使用了4年了，比较稳定，价格合理，包年仅一百元左右，续费更便宜。注册链接 [https://portal.shadowsocks.au/aff.php?aff=22354](https://portal.shadowsocks.au/aff.php?aff=22354)
 
 ![](https://cdn.jsdelivr.net/gh/Gaohaoyang/pics/pics/1.png)
