@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "科学上网注册与使用 ChatGPT"
+title:  "test ChatGPT"
 categories: AI
 tags:  AI 科学上网
 author: HyG
