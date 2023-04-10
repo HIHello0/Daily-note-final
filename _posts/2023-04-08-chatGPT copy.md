@@ -29,6 +29,9 @@ author: HyG
 
 ![](https://cdn.jsdelivr.net/gh/Gaohaoyang/pics/pics/1.png)
 ![Alt textdsadasd](https://i.imgur.com/U0dpHHu.jpeg)
+
+![Alt textdsadasd](<blockquote class="imgur-embed-pub" lang="en" data-id="a/zaORmpu"  ><a href="//imgur.com/a/zaORmpu">dasa</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>)
+
 # 注册ChatGPT
 
 首先打开科学上网，访问 chatGPT 官网注册 [https://chat.openai.com/auth/login](https://chat.openai.com/auth/login)
