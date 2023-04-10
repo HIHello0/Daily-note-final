@@ -2,7 +2,7 @@
 layout: post
 title:  "test ChatGPT"
 categories: AI
-tags:  AI 科学上网
+tags:  AI 科学上网 TEst
 author: HyG
 ---
 
