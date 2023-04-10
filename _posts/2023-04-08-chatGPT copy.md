@@ -1,39 +1,33 @@
+
 ---
+
 layout: post
-title:  "test ChatGPT"
-categories: AI
-tags:  AI 科学上网 TEst
-author: HyG
+
+title:  "Three.js 之 14 Raycaster "
+
+categories: Three.js
+
+tags:  Three.js WebGL Hello
+
+author: Raj Rathod
+
 ---
+
+  
 
 * content
+
 {:toc}
 
-手把手教你如何在国内科学注册chatGPT
 
-流程比较简单，主要分以下3步：
 
-- 科学上网
-- 注册ChatGPT
-- 手机号接收验证码
+If you're creating a blog post in Google Docs and want to include images, you can add the images to the document just like you normally would. Once you're done with the post, you can download the document as a Word file or a PDF file, depending on your preference.
+
+To include images in your Jekyll site, you can add them to a folder in your Jekyll project directory, such as `_assets/images/`, then reference them in your post using the appropriate Markdown syntax. For example, if you have an image called `my-image.jpg` in the `_assets/images/` directory, you can include it in your post like this:
 
 
 
 
-
-# 科学上网
-
-如果您已经可以科学上网了，则可以跳过这1步。
-
-
-hello
-
-
-
-
-
-![](https://i.imgur.com/y0cdxkh.jpg)
-![](https://i.imgur.com/h8wjd1E.jpg)
-![](https://i.imgur.com/aaY0Mwt.jpg)
-
-
+![](https://i.imgur.com/muaGEMt.jpg)
+![](https://i.imgur.com/eJ6VyJj.jpg)
+![](https://i.imgur.com/yB2NOSo.jpg)
